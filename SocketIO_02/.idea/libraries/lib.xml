@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/netty-all-5.0.0.Alpha2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/mina-integration-beans-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/mina-integration-jmx-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/mina-filter-compression-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/jboss-marshalling-1.3.0.CR9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/mina-statemachine-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/httpclient-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/protobuf-java-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/mina-transport-apr-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/mina-integration-ognl-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/httpclient-cache-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/httpmime-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/mina-http-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/netty-all-5.0.0.Alpha2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/jboss-marshalling-serial-1.3.0.CR9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/mina-example-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/mina-core-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/httpcore-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/mina-integration-xbean-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/lib/sigar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

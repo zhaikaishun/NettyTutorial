@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dubbox-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SocketIO_02/sources/dubbox-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
